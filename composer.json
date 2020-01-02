@@ -1,0 +1,12 @@
+{
+    "name": "nueaf/convent-php",
+    "description": "A convention based PHP framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Michael Als",
+            "email": "nueaf@nueaf.dk"
+        }
+    ],
+    "require": {}
+}
